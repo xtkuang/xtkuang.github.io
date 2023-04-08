@@ -1,0 +1,65 @@
+{
+  "id": "4003399",
+  "name": "简历",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "862573",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "1220303",
+      "name": "生日",
+      "font_class": "shengri",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2076254",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e88b",
+      "unicode_decimal": 59531
+    },
+    {
+      "icon_id": "2966203",
+      "name": "经验",
+      "font_class": "jingyan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "4552970",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "6119296",
+      "name": "学历",
+      "font_class": "edu-line",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "6183156",
+      "name": "性别",
+      "font_class": "gender",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "21587834",
+      "name": "学校",
+      "font_class": "xuexiao",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}

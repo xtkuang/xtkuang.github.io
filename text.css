@@ -109,9 +109,23 @@ li{
     margin-left:15px;
 }
 .cir{
-    height: 35px;
+    height: 50px;
     display: flex;
+    flex-direction: column;
     justify-content:space-between;
+    margin-top: 20px;
+
+}
+.article{
+    flex: 1;
+    display: flex;
+
+}
+.m{
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
 }
 .circle{
     flex: 1;
@@ -146,10 +160,16 @@ li{
     margin-right: 20px;
     text-align: center ;
 }
-/* .bgc{
-    
-    background-repeat: no-repeat; 
-    background-size: cover; 
-    width: 20px;
-    height: 20px;
-} */
+
+td span{
+    background-color: #415465;
+    color:white;
+}
+.art{
+    flex:1;
+    display: flex;
+    justify-content: space-between;
+}
+.art span{
+    flex: 1;
+}
